@@ -13,7 +13,7 @@ Essa API foi criada para [MongoDB]() com as seguintes features:
 
 ## Setup
 
-Escrito em Python 3.10 and above. Nãs esqueça da virtualenv. Os comandos`python` a baixo serão para instalação e execução.
+Escrito em Python 3.10. Nãs esqueça da virtualenv. Os comandos`python` a baixo serão para instalação e execução.
 
 Primeiro é necessário instalar os requirements.
 
